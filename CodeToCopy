@@ -1,9 +1,6 @@
-            List<Animal> animals = new List<Animal>()
-            {
-                new Dog{Name="Timmy", Age=6, LimbCount=4},
-                new Spider{Name="Snider", Age=1, LimbCount=8},
-                new Dragon{Name="Puff", Age=101, LimbCount=7},
-                new Lion{Name="Clarence", Age=16, LimbCount=3},
-                new Dog{Name="Wuffles", Age=7, LimbCount=5},
-                new Dragon{Name="Dylan", Age=3, LimbCount=6}
-            };
+Id,Registration,Make,Model,MaxSpeed
+1,ABC 123,Ford,Fiesta,120
+2,ABC 456,Ford,Mondeo,120
+3,DEF 123,Audi,A9,140
+4,DEF 456,Ford,Ka,100
+9,VW12 PLO,VW,Polo,110
